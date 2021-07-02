@@ -1,7 +1,7 @@
 # vue-simple-agenda
 Simple Agenda component for Vue, where you can add important events to a simple calendar.
 
-# Steps:
+## Steps:
 ```sh
 npm i vue-simple-agenda
 ```
@@ -18,7 +18,7 @@ And finally inside your Vue template code:
 </template>
 ```
 
-# Props
+## Props
 | Name | Description | Default |
 | ------ | ------ | ------ |
 | beginning | Start of the worktime for the agenda | {hour: 8, minute: 25} |
